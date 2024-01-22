@@ -17,6 +17,7 @@ Tyto režimy jse dají měnit buď v rozbalovacím menu s názvem **Zobrazit** v
 
 Seznam režimů a jejich dodatečné vysvětlení
  - **Standartní**
+   
  - **Vědecká**
  - **Programátorská**
  - **Statistická**
