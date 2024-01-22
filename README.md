@@ -43,14 +43,14 @@ Seznam režimů a jejich popis:
 ![odstranění dat](https://github.com/Krbin/test/assets/115635885/75c3ae3f-7daa-4fd5-9fd4-34b87fe0d050)
 
 
-    - Backspace odstraňuje poslední číslici z zadávaného čísla
+    - "Backspace" odstraňuje poslední číslici z zadávaného čísla
 ![backspace](https://github.com/Krbin/test/assets/115635885/98859a32-4847-42cb-9915-0d2b258dc913)
 
-    - CE vymaže právě zadávané číslo
+    - "CE" vymaže právě zadávané číslo
 ![ce](https://github.com/Krbin/test/assets/115635885/a8147d84-6554-4603-9506-f3ec6591d2da)
 
 
-    - C vymaže celý matematický výraz
+    - "C" vymaže celý matematický výraz
 ![c](https://github.com/Krbin/test/assets/115635885/d7e3532b-2a6e-4bc8-8bfa-bf0c4c54568f)
 
  - **Vědecká**
