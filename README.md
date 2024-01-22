@@ -18,15 +18,30 @@ Tyto režimy jse dají měnit buď v rozbalovacím menu s názvem **Zobrazit** v
 Seznam režimů a jejich popis:
  - **Standartní**
    Standartní režimi Kalkulačky má následující druhy funkcí, které jsou dostupné v podobě tlačítek:
+
+![Výstřižek číslice čárka](https://github.com/Krbin/test/assets/115635885/90063aed-4155-4568-9a28-ad9ddf04ca21)
+
    - Číselná klávesnice s decimálním oddělovačem. (Výsledek této funkcionality jde společně s operátory lze nahradit ekvivalentními tlačítky na fyzické klávesnici)
-   - ![Výstřižek číslice čárka](https://github.com/Krbin/test/assets/115635885/90063aed-4155-4568-9a28-ad9ddf04ca21)
+   
+
 
    - Základní matematické operátory
+
+![základní operátori](https://github.com/Krbin/test/assets/115635885/7437f520-669b-4e69-b8b1-a379a28bf4b0)
+
      - sčítání (symbol: "+")
      - odčítání  (symbol: "-")
      - násobení  (symbol: "*")
      - dělení (symbol: "/")
-   - Odstranění 
+
+
+
+   - Odstranění dat
+
+![odstranění dat](https://github.com/Krbin/test/assets/115635885/75c3ae3f-7daa-4fd5-9fd4-34b87fe0d050)
+
+    - 
+ 
  - **Vědecká**
  - **Programátorská**
  - **Statistická**
