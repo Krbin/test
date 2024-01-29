@@ -18,43 +18,43 @@ Tyto režimy jse dají měnit buď v rozbalovacím menu s názvem **Zobrazit** v
 ![menu zobrazit](https://github.com/Krbin/test/assets/115635885/3dfafa35-f7f2-4877-95ef-b21a4c7428c3)
 
 Seznam režimů a jejich popis:
- - **Standartní**
+ * **Standartní**
    Standartní režimi Kalkulačky má následující druhy funkcí, které jsou dostupné v podobě tlačítek:
 
 ![Výstřižek číslice čárka](https://github.com/Krbin/test/assets/115635885/90063aed-4155-4568-9a28-ad9ddf04ca21)
 
-   - Číselná klávesnice s decimálním oddělovačem. (Výsledek této funkcionality jde společně s operátory lze nahradit ekvivalentními tlačítky na fyzické klávesnici)
+   * Číselná klávesnice s decimálním oddělovačem. (Výsledek této funkcionality jde společně s operátory lze nahradit ekvivalentními tlačítky na fyzické klávesnici)
    
 
 
-   - Základní matematické operátory
+   * Základní matematické operátory
 
 ![základní operátori](https://github.com/Krbin/test/assets/115635885/7437f520-669b-4e69-b8b1-a379a28bf4b0)
 
-     - sčítání (symbol: "+")
-     - odčítání  (symbol: "-")
-     - násobení  (symbol: "*")
-     - dělení (symbol: "/")
+     * sčítání (symbol: "+")
+     * odčítání  (symbol: "-")
+     * násobení  (symbol: "*")
+     * dělení (symbol: "/")
 
 
 
-   - Odstranění dat
+   * Odstranění dat
 
 ![odstranění dat](https://github.com/Krbin/test/assets/115635885/75c3ae3f-7daa-4fd5-9fd4-34b87fe0d050)
 
 
-    - "Backspace" odstraňuje poslední číslici z zadávaného čísla
+    * "Backspace" odstraňuje poslední číslici z zadávaného čísla
 ![backspace](https://github.com/Krbin/test/assets/115635885/98859a32-4847-42cb-9915-0d2b258dc913)
 
-    - "CE" vymaže právě zadávané číslo
+    * "CE" vymaže právě zadávané číslo
 ![ce](https://github.com/Krbin/test/assets/115635885/a8147d84-6554-4603-9506-f3ec6591d2da)
 
 
-    - "C" vymaže celý matematický výraz
+    * "C" vymaže celý matematický výraz
 ![c](https://github.com/Krbin/test/assets/115635885/d7e3532b-2a6e-4bc8-8bfa-bf0c4c54568f)
 
- - **Vědecká**
- - **Programátorská**
- - **Statistická**
+ * **Vědecká**
+ * **Programátorská**
+ * **Statistická**
 
 
