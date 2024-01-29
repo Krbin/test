@@ -40,10 +40,12 @@ Seznam režimů a jejich popis:
 
    * Odstranění dat
 
-   * ![odstranění dat](https://github.com/Krbin/test/assets/115635885/75c3ae3f-7daa-4fd5-9fd4-34b87fe0d050)
+    ![odstranění dat](https://github.com/Krbin/test/assets/115635885/75c3ae3f-7daa-4fd5-9fd4-34b87fe0d050)
+    ** **
 
 
       * "Backspace" odstraňuje poslední číslici z zadávaného čísla
+    * 
     ![backspace](https://github.com/Krbin/test/assets/115635885/98859a32-4847-42cb-9915-0d2b258dc913)
     ** **
 
