@@ -39,30 +39,49 @@ Seznam režimů a jejich popis:
      * násobení  (symbol: "*")
      * dělení (symbol: "/")
 
+   * Matematické operátory upravující zadávané číslo
 
+        ![special operators](https://github.com/Krbin/test/assets/115635885/c15bc216-20e4-4c6b-abfc-b946cf16c837)
+
+     **Speciální operátory**
+     Matematické operátory které upravují čislo v zadávaném poli
+
+     * vynásobení čísla -1/změnění obrácení kladnosti/zápornosti čísla (symbol: "±")
+     * odmocnina (symbol: "√")
+     * procento (symbol: "%")
+        * má procentí hodnotu výrazu před zadávaným číslem - příklad: 10 + 20 % je ekvivalentní 10 * 1.2    
+     * obrácená hodnota (symbol: "1/x")
+
+
+   * Paměťové operátory
+           
+      ![memory operators](https://github.com/Krbin/test/assets/115635885/11774cfc-cce4-48b3-b163-3e028bf6b454)
+
+     **Paměťové operátory**
+
+      * Vymazání paměti (Memory Clear, symbol: "MC")
+      * Vyvolání paměti (Memory Recall, symbo: "MR")
+         * Vypíše paměť do upravovaného čisla. (Tato akce nevymaže číslo z paměti)
+      * Uložení čísla (Memory Store, symbol: "MS")
+      * Přidání čísla (symbol: "M+")
+         * Přičte současnou hodnotu k hodnotě v paměti 
+      * Odebrání čísla (symbol: "M-")
+         * Odečte současnou hodnotu od hodnoty v paměti
+      
 
    * **Klávesy pro odstranění dat**
 
         ![odstranění dat](https://github.com/Krbin/test/assets/115635885/75c3ae3f-7daa-4fd5-9fd4-34b87fe0d050)
      
 
-      * "Backspace" odstraňuje poslední číslici z zadávaného čísla
-    
-        ![backspace](https://github.com/Krbin/test/assets/115635885/98859a32-4847-42cb-9915-0d2b258dc913)
-        
-        **Backspace**
+      * ![backspace](https://github.com/Krbin/test/assets/115635885/98859a32-4847-42cb-9915-0d2b258dc913) "Backspace" odstraňuje poslední číslici z zadávaného čísla
 
-      * **"CE" vymaže právě zadávané číslo**
-        
-        ![ce](https://github.com/Krbin/test/assets/115635885/a8147d84-6554-4603-9506-f3ec6591d2da)
-        
+
+      * "CE" vymaže právě zadávané číslo
 
 
       * "C" vymaže celý matematický výraz
           
-        ![c](https://github.com/Krbin/test/assets/115635885/d7e3532b-2a6e-4bc8-8bfa-bf0c4c54568f)
-   
-        **C**
 
  * **Vědecká**
  * **Programátorská**
