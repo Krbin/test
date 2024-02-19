@@ -34,10 +34,13 @@ Seznam režimů a jejich popis:
      
     **Matematické operátory**
 
-     * sčítání (symbol: "+")
-     * odčítání  (symbol: "-")
-     * násobení  (symbol: "*")
      * dělení (symbol: "/")
+     * násobení  (symbol: "*")
+     * odčítání  (symbol: "-")
+     * sčítání (symbol: "+")
+     
+     
+     
 
    * Matematické operátory upravující zadávané číslo
 
